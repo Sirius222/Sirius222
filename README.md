@@ -11,10 +11,9 @@
 -  **Hobbies :** Badminton 🏸 Music 🎧  Swimming 🏊‍♂️ :
 -  **Contact me :** [Sirius222](mailto:csguo@nuaa.edu.cn)
 
+### Languages
 
-### Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+![Visitor Count](https://profile-counter.glitch.me/Sirius222/count.svg)
 
 
 -----
